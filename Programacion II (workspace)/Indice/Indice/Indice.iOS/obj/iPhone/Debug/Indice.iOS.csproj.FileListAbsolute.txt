@@ -1,0 +1,8 @@
+C:\Users\Danniboy\source\repos\Indice\Indice\Indice.iOS\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\Users\Danniboy\source\repos\Indice\Indice\Indice.iOS\obj\iPhone\Debug\actool\_PartialAppManifest.items
+C:\Users\Danniboy\source\repos\Indice\Indice\Indice.iOS\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Users\Danniboy\source\repos\Indice\Indice\Indice.iOS\obj\iPhone\Debug\coremlc\_PartialAppManifest.items
+C:\Users\Danniboy\source\repos\Indice\Indice\Indice.iOS\obj\iPhone\Debug\coremlc\_BundleResourceWithLogicalName.items
+C:\Users\Danniboy\source\repos\Indice\Indice\Indice.iOS\obj\iPhone\Debug\optimized\
+C:\Users\Danniboy\source\repos\Indice\Indice\Indice.iOS\obj\iPhone\Debug\Indice.iOS.csprojAssemblyReference.cache
+C:\Users\Danniboy\source\repos\Indice\Indice\Indice.iOS\obj\iPhone\Debug\Indice.iOS.csproj.CoreCompileInputs.cache

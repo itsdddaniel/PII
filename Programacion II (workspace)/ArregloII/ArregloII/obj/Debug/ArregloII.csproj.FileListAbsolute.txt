@@ -1,0 +1,12 @@
+c:\users\usuario\documents\visual studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe.config
+C:\Users\Danniboy\Documents\Visual Studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe.config
+C:\Users\Danniboy\Documents\Visual Studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe
+C:\Users\Danniboy\Documents\Visual Studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\bin\Debug\ConsoleApplication5.pdb
+C:\Users\Danniboy\Documents\Visual Studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.exe
+C:\Users\Danniboy\Documents\Visual Studio 2015\Projects\ConsoleApplication5\ConsoleApplication5\obj\Debug\ConsoleApplication5.pdb
+C:\Users\Danniboy\Documents\Visual Studio 2015\Projects\ArregloII\ArregloII\bin\Debug\ConsoleApplication5.exe.config
+C:\Users\Danniboy\Documents\Visual Studio 2015\Projects\ArregloII\ArregloII\bin\Debug\ConsoleApplication5.exe
+C:\Users\Danniboy\Documents\Visual Studio 2015\Projects\ArregloII\ArregloII\bin\Debug\ConsoleApplication5.pdb
+C:\Users\Danniboy\Documents\Visual Studio 2015\Projects\ArregloII\ArregloII\obj\Debug\ArregloII.csprojResolveAssemblyReference.cache
+C:\Users\Danniboy\Documents\Visual Studio 2015\Projects\ArregloII\ArregloII\obj\Debug\ConsoleApplication5.exe
+C:\Users\Danniboy\Documents\Visual Studio 2015\Projects\ArregloII\ArregloII\obj\Debug\ConsoleApplication5.pdb

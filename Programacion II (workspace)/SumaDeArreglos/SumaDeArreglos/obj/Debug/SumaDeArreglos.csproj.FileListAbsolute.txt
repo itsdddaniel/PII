@@ -1,0 +1,6 @@
+c:\users\danniboy\documents\visual studio 2015\Projects\SumaDeArreglos\SumaDeArreglos\bin\Debug\SumaDeArreglos.exe.config
+C:\Users\Danniboy\Documents\Visual Studio 2015\Projects\SumaDeArreglos\SumaDeArreglos\bin\Debug\SumaDeArreglos.exe
+C:\Users\Danniboy\Documents\Visual Studio 2015\Projects\SumaDeArreglos\SumaDeArreglos\bin\Debug\SumaDeArreglos.pdb
+C:\Users\Danniboy\Documents\Visual Studio 2015\Projects\SumaDeArreglos\SumaDeArreglos\obj\Debug\SumaDeArreglos.csprojResolveAssemblyReference.cache
+C:\Users\Danniboy\Documents\Visual Studio 2015\Projects\SumaDeArreglos\SumaDeArreglos\obj\Debug\SumaDeArreglos.exe
+C:\Users\Danniboy\Documents\Visual Studio 2015\Projects\SumaDeArreglos\SumaDeArreglos\obj\Debug\SumaDeArreglos.pdb

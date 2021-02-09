@@ -1,0 +1,9 @@
+C:\Users\Danniboy\source\repos\Indice\Indice\Indice\obj\Debug\netstandard2.0\Indice.csprojAssemblyReference.cache
+C:\Users\Danniboy\source\repos\Indice\Indice\Indice\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Danniboy\source\repos\Indice\Indice\Indice\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Danniboy\source\repos\Indice\Indice\Indice\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
+C:\Users\Danniboy\source\repos\Indice\Indice\Indice\obj\Debug\netstandard2.0\Indice.csproj.CoreCompileInputs.cache
+C:\Users\Danniboy\source\repos\Indice\Indice\Indice\obj\Debug\netstandard2.0\Indice.AssemblyInfoInputs.cache
+C:\Users\Danniboy\source\repos\Indice\Indice\Indice\obj\Debug\netstandard2.0\Indice.AssemblyInfo.cs
+C:\Users\Danniboy\source\repos\Indice\Indice\Indice\bin\Debug\netstandard2.0\Indice.deps.json
+C:\Users\Danniboy\source\repos\Indice\Indice\Indice\bin\Debug\netstandard2.0\Indice.dll

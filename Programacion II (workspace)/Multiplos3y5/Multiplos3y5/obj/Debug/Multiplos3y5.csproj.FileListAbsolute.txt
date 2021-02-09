@@ -1,0 +1,6 @@
+c:\users\danniboy\documents\visual studio 2015\Projects\Multiplos3y5\Multiplos3y5\bin\Debug\Multiplos3y5.exe.config
+C:\Users\Danniboy\Documents\Visual Studio 2015\Projects\Multiplos3y5\Multiplos3y5\bin\Debug\Multiplos3y5.exe
+C:\Users\Danniboy\Documents\Visual Studio 2015\Projects\Multiplos3y5\Multiplos3y5\bin\Debug\Multiplos3y5.pdb
+C:\Users\Danniboy\Documents\Visual Studio 2015\Projects\Multiplos3y5\Multiplos3y5\obj\Debug\Multiplos3y5.csprojResolveAssemblyReference.cache
+C:\Users\Danniboy\Documents\Visual Studio 2015\Projects\Multiplos3y5\Multiplos3y5\obj\Debug\Multiplos3y5.exe
+C:\Users\Danniboy\Documents\Visual Studio 2015\Projects\Multiplos3y5\Multiplos3y5\obj\Debug\Multiplos3y5.pdb

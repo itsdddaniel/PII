@@ -1,0 +1,5 @@
+c:\users\danniboy\documents\visual studio 2015\Projects\SquareSum\SquareSum\bin\Debug\SquareSum.exe.config
+C:\Users\Danniboy\Documents\Visual Studio 2015\Projects\SquareSum\SquareSum\bin\Debug\SquareSum.exe
+C:\Users\Danniboy\Documents\Visual Studio 2015\Projects\SquareSum\SquareSum\bin\Debug\SquareSum.pdb
+C:\Users\Danniboy\Documents\Visual Studio 2015\Projects\SquareSum\SquareSum\obj\Debug\SquareSum.exe
+C:\Users\Danniboy\Documents\Visual Studio 2015\Projects\SquareSum\SquareSum\obj\Debug\SquareSum.pdb

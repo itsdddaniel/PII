@@ -1,0 +1,6 @@
+c:\users\danniboy\documents\visual studio 2015\Projects\TiempoConStringBuilder\TiempoConStringBuilder\bin\Debug\TiempoConStringBuilder.exe.config
+c:\users\danniboy\documents\visual studio 2015\Projects\TiempoConStringBuilder\TiempoConStringBuilder\bin\Debug\TiempoConStringBuilder.exe
+c:\users\danniboy\documents\visual studio 2015\Projects\TiempoConStringBuilder\TiempoConStringBuilder\bin\Debug\TiempoConStringBuilder.pdb
+c:\users\danniboy\documents\visual studio 2015\Projects\TiempoConStringBuilder\TiempoConStringBuilder\obj\Debug\TiempoConStringBuilder.exe
+c:\users\danniboy\documents\visual studio 2015\Projects\TiempoConStringBuilder\TiempoConStringBuilder\obj\Debug\TiempoConStringBuilder.pdb
+C:\Users\Danniboy\Documents\Visual Studio 2015\Projects\TiempoConStringBuilder\TiempoConStringBuilder\obj\Debug\TiempoConStringBuilder.csprojResolveAssemblyReference.cache

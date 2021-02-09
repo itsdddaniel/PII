@@ -1,0 +1,3 @@
+C:\Users\Danniboy\Documents\Visual Studio 2015\Projects\InterpolacionCadenasAppend\InterpolacionCadenasAppend\bin\Debug\ConsoleApplication3.exe.config
+C:\Users\Danniboy\Documents\Visual Studio 2015\Projects\InterpolacionCadenasAppend\InterpolacionCadenasAppend\obj\Debug\ConsoleApplication3.exe
+C:\Users\Danniboy\Documents\Visual Studio 2015\Projects\InterpolacionCadenasAppend\InterpolacionCadenasAppend\obj\Debug\ConsoleApplication3.pdb

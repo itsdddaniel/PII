@@ -1,0 +1,6 @@
+c:\users\danniboy\documents\visual studio 2015\Projects\TiempoConString\TiempoConString\bin\Debug\TiempoConString.exe.config
+C:\Users\Danniboy\Documents\Visual Studio 2015\Projects\TiempoConString\TiempoConString\bin\Debug\TiempoConString.exe
+C:\Users\Danniboy\Documents\Visual Studio 2015\Projects\TiempoConString\TiempoConString\bin\Debug\TiempoConString.pdb
+C:\Users\Danniboy\Documents\Visual Studio 2015\Projects\TiempoConString\TiempoConString\obj\Debug\TiempoConString.csprojResolveAssemblyReference.cache
+C:\Users\Danniboy\Documents\Visual Studio 2015\Projects\TiempoConString\TiempoConString\obj\Debug\TiempoConString.exe
+C:\Users\Danniboy\Documents\Visual Studio 2015\Projects\TiempoConString\TiempoConString\obj\Debug\TiempoConString.pdb

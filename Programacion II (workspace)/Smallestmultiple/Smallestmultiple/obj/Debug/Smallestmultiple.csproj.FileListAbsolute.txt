@@ -1,0 +1,6 @@
+c:\users\danniboy\documents\visual studio 2015\Projects\Smallestmultiple\Smallestmultiple\bin\Debug\Smallestmultiple.exe.config
+c:\users\danniboy\documents\visual studio 2015\Projects\Smallestmultiple\Smallestmultiple\bin\Debug\Smallestmultiple.exe
+c:\users\danniboy\documents\visual studio 2015\Projects\Smallestmultiple\Smallestmultiple\bin\Debug\Smallestmultiple.pdb
+c:\users\danniboy\documents\visual studio 2015\Projects\Smallestmultiple\Smallestmultiple\obj\Debug\Smallestmultiple.csprojResolveAssemblyReference.cache
+c:\users\danniboy\documents\visual studio 2015\Projects\Smallestmultiple\Smallestmultiple\obj\Debug\Smallestmultiple.exe
+c:\users\danniboy\documents\visual studio 2015\Projects\Smallestmultiple\Smallestmultiple\obj\Debug\Smallestmultiple.pdb

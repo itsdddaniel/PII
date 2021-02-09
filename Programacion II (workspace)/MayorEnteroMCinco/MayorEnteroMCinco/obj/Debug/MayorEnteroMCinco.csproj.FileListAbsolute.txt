@@ -1,0 +1,6 @@
+c:\users\danniboy\documents\visual studio 2015\Projects\MayorEnteroMCinco\MayorEnteroMCinco\bin\Debug\MayorEnteroMCinco.exe.config
+C:\Users\Danniboy\Documents\Visual Studio 2015\Projects\MayorEnteroMCinco\MayorEnteroMCinco\bin\Debug\MayorEnteroMCinco.exe
+C:\Users\Danniboy\Documents\Visual Studio 2015\Projects\MayorEnteroMCinco\MayorEnteroMCinco\bin\Debug\MayorEnteroMCinco.pdb
+C:\Users\Danniboy\Documents\Visual Studio 2015\Projects\MayorEnteroMCinco\MayorEnteroMCinco\obj\Debug\MayorEnteroMCinco.csprojResolveAssemblyReference.cache
+C:\Users\Danniboy\Documents\Visual Studio 2015\Projects\MayorEnteroMCinco\MayorEnteroMCinco\obj\Debug\MayorEnteroMCinco.exe
+C:\Users\Danniboy\Documents\Visual Studio 2015\Projects\MayorEnteroMCinco\MayorEnteroMCinco\obj\Debug\MayorEnteroMCinco.pdb

@@ -1,0 +1,9 @@
+c:\users\danniboy\documents\visual studio 2015\Projects\Interfaz\Interfaz\bin\Debug\Interfaz.exe.config
+c:\users\danniboy\documents\visual studio 2015\Projects\Interfaz\Interfaz\bin\Debug\Interfaz.exe
+c:\users\danniboy\documents\visual studio 2015\Projects\Interfaz\Interfaz\bin\Debug\Interfaz.pdb
+c:\users\danniboy\documents\visual studio 2015\Projects\Interfaz\Interfaz\obj\Debug\Interfaz.csprojResolveAssemblyReference.cache
+c:\users\danniboy\documents\visual studio 2015\Projects\Interfaz\Interfaz\obj\Debug\Interfaz.Properties.Resources.resources
+c:\users\danniboy\documents\visual studio 2015\Projects\Interfaz\Interfaz\obj\Debug\Interfaz.csproj.GenerateResource.Cache
+c:\users\danniboy\documents\visual studio 2015\Projects\Interfaz\Interfaz\obj\Debug\Interfaz.exe
+c:\users\danniboy\documents\visual studio 2015\Projects\Interfaz\Interfaz\obj\Debug\Interfaz.pdb
+c:\users\danniboy\documents\visual studio 2015\Projects\Interfaz\Interfaz\obj\Debug\Interfaz.Form1.resources

@@ -1,0 +1,6 @@
+c:\users\danniboy\documents\visual studio 2015\Projects\SecuenciaFaltante\SecuenciaFaltante\bin\Debug\SecuenciaFaltante.exe.config
+C:\Users\Danniboy\Documents\Visual Studio 2015\Projects\SecuenciaFaltante\SecuenciaFaltante\bin\Debug\SecuenciaFaltante.exe
+C:\Users\Danniboy\Documents\Visual Studio 2015\Projects\SecuenciaFaltante\SecuenciaFaltante\bin\Debug\SecuenciaFaltante.pdb
+C:\Users\Danniboy\Documents\Visual Studio 2015\Projects\SecuenciaFaltante\SecuenciaFaltante\obj\Debug\SecuenciaFaltante.csprojResolveAssemblyReference.cache
+C:\Users\Danniboy\Documents\Visual Studio 2015\Projects\SecuenciaFaltante\SecuenciaFaltante\obj\Debug\SecuenciaFaltante.exe
+C:\Users\Danniboy\Documents\Visual Studio 2015\Projects\SecuenciaFaltante\SecuenciaFaltante\obj\Debug\SecuenciaFaltante.pdb

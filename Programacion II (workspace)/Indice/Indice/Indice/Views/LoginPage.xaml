@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="App1.Views.LoginPage"
+             Title="Calcular Indice de Periodo"
+             BindingContext="{Binding Main, Source={StaticResource Locator}}">
+    <ContentPage.Content>
+        <ScrollView
+            BindingContext="{Binding Login}">
+            <StackLayout Padding="30,220">
+                <Label 
+                    FontSize="Large" 
+                    Text="Ingrese la nota de la clase:"/>
+
+
+                <Entry
+                    Placeholder="Nota de la clase..."
+                    Text="{Binding Nota, Mode=TwoWay}"/>
+
+
+                <Label 
+                    FontSize="Large" 
+                    Text="Ingrese el UV de la clase:"/>
+
+
+                <Entry
+                    Placeholder="UV de la clase..."
+                    Text="{Binding UV, Mode=TwoWay}"/>
+
+
+                <Button
+                    BackgroundColor="Navy"
+                    TextColor="White"
+                    BorderRadius="10"
+                    Text="Agregar"
+                    Command="{Binding CalculandoCommand}"/>
+
+
+                <ActivityIndicator
+                    VerticalOptions="Center"
+                    IsRunning="{Binding IsRunning, Mode=TwoWay}"/>
+
+
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

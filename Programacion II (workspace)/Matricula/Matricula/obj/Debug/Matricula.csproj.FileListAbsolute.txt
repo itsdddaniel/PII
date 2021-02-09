@@ -1,0 +1,5 @@
+c:\users\danniboy\documents\visual studio 2015\Projects\Matricula\Matricula\bin\Debug\Matricula.exe.config
+c:\users\danniboy\documents\visual studio 2015\Projects\Matricula\Matricula\bin\Debug\Matricula.exe
+c:\users\danniboy\documents\visual studio 2015\Projects\Matricula\Matricula\bin\Debug\Matricula.pdb
+c:\users\danniboy\documents\visual studio 2015\Projects\Matricula\Matricula\obj\Debug\Matricula.exe
+c:\users\danniboy\documents\visual studio 2015\Projects\Matricula\Matricula\obj\Debug\Matricula.pdb

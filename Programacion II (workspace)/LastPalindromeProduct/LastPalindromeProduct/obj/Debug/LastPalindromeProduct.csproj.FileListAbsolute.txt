@@ -1,0 +1,6 @@
+c:\users\danniboy\documents\visual studio 2015\Projects\LastPalindromeProduct\LastPalindromeProduct\bin\Debug\LastPalindromeProduct.exe.config
+c:\users\danniboy\documents\visual studio 2015\Projects\LastPalindromeProduct\LastPalindromeProduct\bin\Debug\LastPalindromeProduct.exe
+c:\users\danniboy\documents\visual studio 2015\Projects\LastPalindromeProduct\LastPalindromeProduct\bin\Debug\LastPalindromeProduct.pdb
+c:\users\danniboy\documents\visual studio 2015\Projects\LastPalindromeProduct\LastPalindromeProduct\obj\Debug\LastPalindromeProduct.csprojResolveAssemblyReference.cache
+c:\users\danniboy\documents\visual studio 2015\Projects\LastPalindromeProduct\LastPalindromeProduct\obj\Debug\LastPalindromeProduct.exe
+c:\users\danniboy\documents\visual studio 2015\Projects\LastPalindromeProduct\LastPalindromeProduct\obj\Debug\LastPalindromeProduct.pdb

@@ -1,0 +1,6 @@
+c:\users\danniboy\documents\visual studio 2015\Projects\Try...Catch\Try...Catch\bin\Debug\Try._._.Catch.exe.config
+c:\users\danniboy\documents\visual studio 2015\Projects\Try...Catch\Try...Catch\bin\Debug\Try._._.Catch.exe
+c:\users\danniboy\documents\visual studio 2015\Projects\Try...Catch\Try...Catch\bin\Debug\Try._._.Catch.pdb
+c:\users\danniboy\documents\visual studio 2015\Projects\Try...Catch\Try...Catch\obj\Debug\Try...Catch.csprojResolveAssemblyReference.cache
+c:\users\danniboy\documents\visual studio 2015\Projects\Try...Catch\Try...Catch\obj\Debug\Try._._.Catch.exe
+c:\users\danniboy\documents\visual studio 2015\Projects\Try...Catch\Try...Catch\obj\Debug\Try._._.Catch.pdb

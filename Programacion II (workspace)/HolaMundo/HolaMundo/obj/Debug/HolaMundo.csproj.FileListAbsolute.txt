@@ -1,0 +1,12 @@
+c:\users\usuario\documents\visual studio 2015\Projects\HolaMundo\HolaMundo\bin\Debug\HolaMundo.exe.config
+c:\users\usuario\documents\visual studio 2015\Projects\HolaMundo\HolaMundo\bin\Debug\HolaMundo.exe
+c:\users\usuario\documents\visual studio 2015\Projects\HolaMundo\HolaMundo\bin\Debug\HolaMundo.pdb
+c:\users\usuario\documents\visual studio 2015\Projects\HolaMundo\HolaMundo\obj\Debug\HolaMundo.csprojResolveAssemblyReference.cache
+c:\users\usuario\documents\visual studio 2015\Projects\HolaMundo\HolaMundo\obj\Debug\HolaMundo.exe
+c:\users\usuario\documents\visual studio 2015\Projects\HolaMundo\HolaMundo\obj\Debug\HolaMundo.pdb
+C:\Users\Danniboy\Documents\Visual Studio 2015\Projects\HolaMundo\HolaMundo\bin\Debug\HolaMundo.exe.config
+C:\Users\Danniboy\Documents\Visual Studio 2015\Projects\HolaMundo\HolaMundo\obj\Debug\HolaMundo.exe
+C:\Users\Danniboy\Documents\Visual Studio 2015\Projects\HolaMundo\HolaMundo\obj\Debug\HolaMundo.pdb
+C:\Users\Danniboy\Documents\Visual Studio 2015\Projects\HolaMundo\HolaMundo\bin\Debug\HolaMundo.exe
+C:\Users\Danniboy\Documents\Visual Studio 2015\Projects\HolaMundo\HolaMundo\bin\Debug\HolaMundo.pdb
+C:\Users\Danniboy\Documents\Visual Studio 2015\Projects\HolaMundo\HolaMundo\obj\Debug\HolaMundo.csprojResolveAssemblyReference.cache
