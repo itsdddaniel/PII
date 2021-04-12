@@ -8,4 +8,4 @@ Repositorio de la clase Programación II - III PAC 2018 de la Universidad Nacion
 
 # Content
 
-Repository of the content seen in Programming II - III PAC 2018 of National Autonomous University of Honduras (NAUH).
+Repository of the content seen in Programming II - III PAC 2018 of the National Autonomous University of Honduras (NAUH).
